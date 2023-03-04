@@ -1,8 +1,10 @@
 # Lections-Trapeznikov
 Лекции и литература по математике и информатике для студентов БИТ
 
-Полезные ссылки:
+Ссылки:
 
-https://biit39.ru — оф. сайт БИТ
+  Практическая по графикам в Excel: https://pedsovet.su/excel/5883_grafik_funkcii
+  
+  Практическая по MS Visio: https://infourok.ru/praktikum-po-ms-visio-2210721.html
 
-https://t.me/physics_lib — телеграм канал со множеством технической литературы
+
