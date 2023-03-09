@@ -1,4 +1,4 @@
-# Lections-Trapeznikov
+# LT - lekcii trapeznikova
 Лекции и литература по математике и информатике для студентов БИТ
 
 Ссылки:
